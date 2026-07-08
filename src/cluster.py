@@ -10,7 +10,7 @@ def embed_texts(captions):
     """
     Turn cleaned captions into TF-IDF feature vectors.
     """
-    # Include single words and short phrases while keeping the feature space small.
+    # Include single words and short phrases while keeping the feature space small
     tfidf = TfidfVectorizer(
         stop_words="english",
         ngram_range=(1, 2),
@@ -27,7 +27,7 @@ def choose_num_topics(vectors, min_topics=5, max_topics=10):
     """
     post_count = vectors.shape[0]
 
-    # KMeans needs fewer clusters than data points.
+    # KMeans needs fewer clusters than data points
     if post_count <= min_topics:
         return max(2, post_count)
 
@@ -49,7 +49,7 @@ def choose_num_topics(vectors, min_topics=5, max_topics=10):
                 best_silhouette = candidate_score
                 best_topic_count = topic_count
         except Exception:
-            # Skip invalid cluster counts or edge cases in silhouette scoring.
+            # Skip invalid cluster counts or edge cases in silhouette scoring
             continue
 
     return best_topic_count
