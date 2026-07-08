@@ -13,14 +13,14 @@ def clean_text(text):
 
     cleaned = str(text).lower()
 
-    # Remove links and user mentions because they add noise to topic labels.
+    # Remove links and user mentions because they add noise to topic labels
     cleaned = re.sub(r"http\S+|www\.\S+", " ", cleaned)
     cleaned = re.sub(r"@\w+", " ", cleaned)
 
-    # Keep hashtag words but remove the symbol, e.g. #skincare -> skincare.
+    # Keep hashtag words but remove the symbol
     cleaned = cleaned.replace("#", "")
 
-    # Keep letters, numbers, spaces, and apostrophes.
+    # Keep letters, numbers, spaces, and apostrophes
     cleaned = re.sub(r"[^a-z0-9\s']", " ", cleaned)
     cleaned = re.sub(r"\s+", " ", cleaned).strip()
 
@@ -51,7 +51,7 @@ def load_creators(path="data/creators.csv"):
     try:
         return pd.read_csv(path)
     except FileNotFoundError:
-        # The project can still run if creator metadata is unavailable.
+        # The project can still run if creator metadata is unavailable
         return pd.DataFrame()
 
 
