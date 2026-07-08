@@ -21,7 +21,7 @@ def tokenize(text):
     """
     raw_words = re.findall(r"[a-z][a-z']+", str(text).lower())
 
-    # Remove short words and common filler words.
+    # Remove short words and common filler words
     return [
         word
         for word in raw_words
@@ -108,7 +108,7 @@ def get_representative_posts(posts, embeddings, topic_id, n=3):
     if topic_posts.empty:
         return []
 
-    # For this simple pipeline, high-engagement posts serve as readable examples.
+    # High-engagement posts serve as readable examples
     if "like_count" in topic_posts.columns:
         topic_posts["like_count"] = topic_posts["like_count"].fillna(0)
         topic_posts = topic_posts.sort_values("like_count", ascending=False)
