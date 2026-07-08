@@ -1,0 +1,332 @@
+[
+  {
+    "topic_id": 0,
+    "name": "Skincare routines and education",
+    "description": "Posts focused on skincare routines and education, commonly mentioning morning, routine, melasma, prone, skin.",
+    "post_count": 7,
+    "top_keywords": [
+      "morning",
+      "routine",
+      "melasma",
+      "prone",
+      "skin",
+      "spf",
+      "step",
+      "zero"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_045",
+        "caption_snippet": "Morning routine for melasma-prone skin — SPF is step zero",
+        "why": "This post is representative because it uses key terms from the cluster such as morning, routine, melasma, prone."
+      },
+      {
+        "post_id": "p_177",
+        "caption_snippet": "Morning routine for melasma-prone skin — SPF is step zero",
+        "why": "This post is representative because it uses key terms from the cluster such as morning, routine, melasma, prone."
+      },
+      {
+        "post_id": "p_021",
+        "caption_snippet": "Morning routine for melasma-prone skin — SPF is step zero",
+        "why": "This post is representative because it uses key terms from the cluster such as morning, routine, melasma, prone."
+      }
+    ]
+  },
+  {
+    "topic_id": 1,
+    "name": "Skincare routines and education",
+    "description": "Posts focused on skincare routines and education, commonly mentioning skincare, beauty, makeup, routine, face.",
+    "post_count": 86,
+    "top_keywords": [
+      "skincare",
+      "beauty",
+      "makeup",
+      "routine",
+      "face",
+      "follow",
+      "ingredient",
+      "spotlight"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_124",
+        "caption_snippet": "Apartment deep clean with me — satisfying reset",
+        "why": "This post is representative because it uses key terms from the cluster such as skincare, beauty, makeup, routine."
+      },
+      {
+        "post_id": "p_073",
+        "caption_snippet": "Bridal trial makeup timelapse — airbrush base",
+        "why": "This post is representative because it uses key terms from the cluster such as skincare, beauty, makeup, routine."
+      },
+      {
+        "post_id": "p_166",
+        "caption_snippet": "Slugging debate: petroleum jelly overnight yes or no",
+        "why": "This post is representative because it uses key terms from the cluster such as skincare, beauty, makeup, routine."
+      }
+    ]
+  },
+  {
+    "topic_id": 2,
+    "name": "Skincare routines and education",
+    "description": "Posts focused on skincare routines and education, commonly mentioning signs, skin, barrier, compromised, fix.",
+    "post_count": 5,
+    "top_keywords": [
+      "signs",
+      "skin",
+      "barrier",
+      "compromised",
+      "fix",
+      "skincare",
+      "beauty",
+      "link"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_014",
+        "caption_snippet": "Signs your skin barrier is compromised (and how to fix it) #skincare #beauty",
+        "why": "This post is representative because it uses key terms from the cluster such as signs, skin, barrier, compromised."
+      },
+      {
+        "post_id": "p_052",
+        "caption_snippet": "Signs your skin barrier is compromised (and how to fix it) #skincare #beauty",
+        "why": "This post is representative because it uses key terms from the cluster such as signs, skin, barrier, compromised."
+      },
+      {
+        "post_id": "p_059",
+        "caption_snippet": "Signs your skin barrier is compromised (and how to fix it)",
+        "why": "This post is representative because it uses key terms from the cluster such as signs, skin, barrier, compromised."
+      }
+    ]
+  },
+  {
+    "topic_id": 3,
+    "name": "Skincare routines and education",
+    "description": "Posts focused on skincare routines and education, commonly mentioning thread, moisturizer, matters, serum, barrier.",
+    "post_count": 10,
+    "top_keywords": [
+      "thread",
+      "moisturizer",
+      "matters",
+      "serum",
+      "barrier",
+      "i'm",
+      "bullish",
+      "altcoin"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_147",
+        "caption_snippet": "Why I'm bullish on this altcoin thread link in bio",
+        "why": "This post is representative because it uses key terms from the cluster such as thread, moisturizer, matters, serum."
+      },
+      {
+        "post_id": "p_155",
+        "caption_snippet": "Why I'm bullish on this altcoin thread",
+        "why": "This post is representative because it uses key terms from the cluster such as thread, moisturizer, matters, serum."
+      },
+      {
+        "post_id": "p_029",
+        "caption_snippet": "Why your moisturizer matters more than your serum — barrier 101 thread link in bio",
+        "why": "This post is representative because it uses key terms from the cluster such as thread, moisturizer, matters, serum."
+      }
+    ]
+  },
+  {
+    "topic_id": 4,
+    "name": "Haircare and styling",
+    "description": "Posts focused on haircare and styling, commonly mentioning protein, moisture, balance, damaged, curls.",
+    "post_count": 14,
+    "top_keywords": [
+      "protein",
+      "moisture",
+      "balance",
+      "damaged",
+      "curls",
+      "tretinoin",
+      "purge",
+      "breakout"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_120",
+        "caption_snippet": "What I eat in a day — high protein vegetarian",
+        "why": "This post is representative because it uses key terms from the cluster such as protein, moisture, balance, damaged."
+      },
+      {
+        "post_id": "p_199",
+        "caption_snippet": "Empty vs repurchase — monthly makeup declutter",
+        "why": "This post is representative because it uses key terms from the cluster such as protein, moisture, balance, damaged."
+      },
+      {
+        "post_id": "p_003",
+        "caption_snippet": "Niacinamide vs vitamin C: can you use both? here's the order",
+        "why": "This post is representative because it uses key terms from the cluster such as protein, moisture, balance, damaged."
+      }
+    ]
+  },
+  {
+    "topic_id": 5,
+    "name": "Skincare routines and education",
+    "description": "Posts focused on skincare routines and education, commonly mentioning double, cleanse, demo, oil, cleanser.",
+    "post_count": 6,
+    "top_keywords": [
+      "double",
+      "cleanse",
+      "demo",
+      "oil",
+      "cleanser",
+      "gentle",
+      "gel",
+      "sunscreen"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_183",
+        "caption_snippet": "Double cleanse demo: oil cleanser + gentle gel for sunscreen removal #skincare #beauty",
+        "why": "This post is representative because it uses key terms from the cluster such as double, cleanse, demo, oil."
+      },
+      {
+        "post_id": "p_023",
+        "caption_snippet": "Double cleanse demo: oil cleanser + gentle gel for sunscreen removal link in bio",
+        "why": "This post is representative because it uses key terms from the cluster such as double, cleanse, demo, oil."
+      },
+      {
+        "post_id": "p_159",
+        "caption_snippet": "Double cleanse demo: oil cleanser + gentle gel for sunscreen removal #skincare #beauty",
+        "why": "This post is representative because it uses key terms from the cluster such as double, cleanse, demo, oil."
+      }
+    ]
+  },
+  {
+    "topic_id": 6,
+    "name": "Skincare routines and education",
+    "description": "Posts focused on skincare routines and education, commonly mentioning unboxing, day, huge, sephora, haul.",
+    "post_count": 16,
+    "top_keywords": [
+      "unboxing",
+      "day",
+      "huge",
+      "sephora",
+      "haul",
+      "spring",
+      "launches",
+      "skincare"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_091",
+        "caption_snippet": "Huge Sephora haul — new spring launches unboxing",
+        "why": "This post is representative because it uses key terms from the cluster such as unboxing, day, huge, sephora."
+      },
+      {
+        "post_id": "p_201",
+        "caption_snippet": "PR package unboxing day — so many boxes",
+        "why": "This post is representative because it uses key terms from the cluster such as unboxing, day, huge, sephora."
+      },
+      {
+        "post_id": "p_198",
+        "caption_snippet": "PR package unboxing day — so many boxes link in bio",
+        "why": "This post is representative because it uses key terms from the cluster such as unboxing, day, huge, sephora."
+      }
+    ]
+  },
+  {
+    "topic_id": 7,
+    "name": "Skincare routines and education",
+    "description": "Posts focused on skincare routines and education, commonly mentioning link, bio, week, skincare, beauty.",
+    "post_count": 36,
+    "top_keywords": [
+      "link",
+      "bio",
+      "week",
+      "skincare",
+      "beauty",
+      "long",
+      "liner",
+      "marathon"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_110",
+        "caption_snippet": "Marathon week 8 long run vlog",
+        "why": "This post is representative because it uses key terms from the cluster such as link, bio, week, skincare."
+      },
+      {
+        "post_id": "p_001",
+        "caption_snippet": "How long to wait between actives — dermatology resident perspective #skincare #beauty link in bio",
+        "why": "This post is representative because it uses key terms from the cluster such as link, bio, week, skincare."
+      },
+      {
+        "post_id": "p_115",
+        "caption_snippet": "Marathon week 8 long run vlog",
+        "why": "This post is representative because it uses key terms from the cluster such as link, bio, week, skincare."
+      }
+    ]
+  },
+  {
+    "topic_id": 8,
+    "name": "Content about sunscreen, mineral, chemical",
+    "description": "Posts focused on content about sunscreen, mineral, chemical, commonly mentioning sunscreen, mineral, chemical, camera, test.",
+    "post_count": 8,
+    "top_keywords": [
+      "sunscreen",
+      "mineral",
+      "chemical",
+      "camera",
+      "test",
+      "results",
+      "beauty",
+      "sticks"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_164",
+        "caption_snippet": "K-beauty sunscreen sticks I travel with",
+        "why": "This post is representative because it uses key terms from the cluster such as sunscreen, beauty, sticks, travel."
+      },
+      {
+        "post_id": "p_161",
+        "caption_snippet": "Mineral vs chemical sunscreen: UV camera test results",
+        "why": "This post is representative because it uses key terms from the cluster such as sunscreen, beauty, sticks, travel."
+      },
+      {
+        "post_id": "p_169",
+        "caption_snippet": "K-beauty sunscreen sticks I travel with",
+        "why": "This post is representative because it uses key terms from the cluster such as sunscreen, beauty, sticks, travel."
+      }
+    ]
+  },
+  {
+    "topic_id": 9,
+    "name": "Skincare routines and education",
+    "description": "Posts focused on skincare routines and education, commonly mentioning actually, spf, reapplication, office, days.",
+    "post_count": 12,
+    "top_keywords": [
+      "actually",
+      "spf",
+      "reapplication",
+      "office",
+      "days",
+      "works",
+      "under",
+      "makeup"
+    ],
+    "representative_posts": [
+      {
+        "post_id": "p_173",
+        "caption_snippet": "SPF reapplication on office days: what actually works under makeup link in bio",
+        "why": "This post is representative because it uses key terms from the cluster such as actually, spf, reapplication, office."
+      },
+      {
+        "post_id": "p_182",
+        "caption_snippet": "Peptide serums: what the evidence actually says",
+        "why": "This post is representative because it uses key terms from the cluster such as actually, spf, reapplication, office."
+      },
+      {
+        "post_id": "p_193",
+        "caption_snippet": "SPF reapplication on office days: what actually works under makeup",
+        "why": "This post is representative because it uses key terms from the cluster such as actually, spf, reapplication, office."
+      }
+    ]
+  }
+]
