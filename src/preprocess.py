@@ -61,23 +61,3 @@ def load_target_niche(path="data/target_niche.json"):
     """
     with open(path, "r", encoding="utf-8") as input_file:
         return json.load(input_file)
-
-
-def target_niche_to_text(target_niche):
-    """
-    Flatten a nested niche JSON into one lowercase text string.
-    """
-    values = []
-
-    def collect_values(item):
-        if isinstance(item, dict):
-            for nested_value in item.values():
-                collect_values(nested_value)
-        elif isinstance(item, list):
-            for nested_item in item:
-                collect_values(nested_item)
-        else:
-            values.append(str(item))
-
-    collect_values(target_niche)
-    return " ".join(values).lower()
